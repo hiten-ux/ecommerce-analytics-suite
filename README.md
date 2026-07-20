@@ -6,10 +6,14 @@
 ---
 
 ## 📌 Project Overview
-
+## 📄 Presentation
 This project simulates a real-world e-commerce database (`customers`, `orders`, `products`, `categories`) and builds a **complete analytics layer** using only MySQL. No BI tools—just pure SQL.
 
 The goal? Answer the **10 most critical questions** a CEO, CFO, and Operations Head would ask to run their business profitably.
+
+---
+
+[Click here to view/download the Portfolio Presentation PDF](https://github.com/hiten-ux/ecommerce-analytics-suite/blob/main/Hiten_Solanki_BI_Portfolio_Presentation.pdf)
 
 ---
 
